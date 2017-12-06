@@ -1,0 +1,24 @@
+{
+  "name": "socketio-chat",
+  "version": "1.0.0",
+  "description": "Studing to make a chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasarchangelo/node-socketIO-chat.git"
+  },
+  "author": "Lucas Ramos Archangelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasarchangelo/node-socketIO-chat/issues"
+  },
+  "homepage": "https://github.com/lucasarchangelo/node-socketIO-chat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
